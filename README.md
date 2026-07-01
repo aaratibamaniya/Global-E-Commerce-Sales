@@ -53,6 +53,7 @@ The dataset used in this project has been downloaded from `Kaggle` platform [CLI
   <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
 ---
 ## ⚙️ **Project Workflow**
 
